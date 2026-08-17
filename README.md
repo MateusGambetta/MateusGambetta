@@ -1,4 +1,6 @@
-<h1 align="center">Mateus Gambetta de Souza</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=2D478A&width=435&lines=Seja+bem-vindo" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Exploring data, markets, and decision-making through code and research.
