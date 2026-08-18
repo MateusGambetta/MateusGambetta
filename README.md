@@ -25,15 +25,29 @@ I see programming not only as a technical skill, but also as a **way to investig
 | **Technology**      | Build tools that turn ideas into practical systems.                           |
 | **Decision-making** | Explore how information, incentives, and behavior shape outcomes.             |
 
+<table>
+  <tr>
+    <td width="65%" valign="top">
+
 ### Areas of Interest
 
-* Financial Markets & Economics
-* Decision Science & Behavioral Economics
-* Data Analysis & Quantitative Methods
-* Artificial Intelligence & Machine Learning
-* Complex Systems & Human Behavior
-* Research & Experimentation
-* Robotics & Technology
+- Financial Markets & Economics
+- Decision Science & Behavioral Economics
+- Data Analysis & Quantitative Methods
+- Artificial Intelligence & Machine Learning
+- Complex Systems & Human Behavior
+- Research & Experimentation
+- Robotics & Technology
+
+    </td>
+
+    <td width="35%" align="center" valign="middle">
+
+<img src="./assets/areas-of-interest.png" width="250" alt="Abstract visualization of markets, data, behavior and decision-making" />
+
+    </td>
+  </tr>
+</table>
 
 ### Technical Stack
 
