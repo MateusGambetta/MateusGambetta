@@ -40,11 +40,8 @@ I see programming not only as a technical skill, but also as a **way to investig
 - Robotics & Technology
 
     </td>
-
     <td width="35%" align="center" valign="middle">
-
-<img src="./assets/areas-of-interest.png" width="250" alt="Abstract visualization of markets, data, behavior and decision-making" />
-
+      <img src="./assets/areas-of-interest.png" width="260" alt="Abstract visualization of markets, data, behavior and decision-making">
     </td>
   </tr>
 </table>
