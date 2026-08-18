@@ -45,14 +45,6 @@ I see programming not only as a technical skill, but also as a **way to investig
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
-### Selected Work
-
-**B3 Market Analysis Automation**
-
-An independent Python project focused on structuring and automating parts of financial analysis in the Brazilian equities market, combining data processing, quantitative indicators, and decision-support methods.
-
-[View the project →](https://github.com/MateusGambetta)
-
 ### Background
 
 My background combines **programming, robotics, academic competitions, research, and independent technical projects**.
