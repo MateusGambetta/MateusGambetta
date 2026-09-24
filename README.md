@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=2D478A&center=true&vCenter=true&width=700&height=70&lines=Hello%2C+I'm+Mateus+Gambetta" alt="Hello, I'm Mateus Gambetta" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&pause=1000&color=80ef80&center=true&vCenter=true&width=700&height=70&lines=Hello%2C+I'm+Mateus+Gambetta" alt="Hello, I'm Mateus Gambetta" />
 </p>
 
 <p align="center">
@@ -69,5 +69,5 @@ The common thread across these experiences is a long-term interest in **how syst
 [GitHub](https://github.com/MateusGambetta) · [LinkedIn](https://www.linkedin.com/in/mateus-gambetta-de-souza-0b40092bb/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=2D478AFF&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=80ef80&section=footer" width="100%" />
 </p>
